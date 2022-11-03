@@ -1,0 +1,57 @@
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.exe
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.pdb
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.xml
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.AssemblyReference.cache
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.Resources.resources
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.GenerateResource.cache
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.CoreCompileInputs.cache
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.exe
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.xml
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.pdb
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.loginForma.resources
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.CopyComplete
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Guna.UI.dll
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.adminPage.resources
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.staffUser.resources
+C:\Users\Marquez\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Marquez\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\Marquez\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\Marquez\Desktop\Library\Library\bin\Debug\Library.xml
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.vbproj.AssemblyReference.cache
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.adminLogin.resources
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.adminPage.resources
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.loginForma.resources
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.Resources.resources
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.staffBook.resources
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.staffUser.resources
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.vbproj.GenerateResource.cache
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.vbproj.CoreCompileInputs.cache
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.vbproj.CopyComplete
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.xml
+C:\Users\Marquez\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.BooksPage.resources
+C:\Users\Marquez\Desktop\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.BookReservation.resources
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.exe.config
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.exe
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.pdb
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Library.xml
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Guna.UI2.dll
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.AssemblyReference.cache
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.adminPage.resources
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.BookReservation.resources
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.BooksPage.resources
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.loginForma.resources
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.Resources.resources
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.staffUser.resources
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.GenerateResource.cache
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.CoreCompileInputs.cache
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.vbproj.CopyComplete
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.exe
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.xml
+D:\Fakultet\IPIA 2\Baze podataka\VS projekat\Library\Library\obj\Debug\Library.pdb
